@@ -21,3 +21,5 @@ $ yarn run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 # curio
+
+on 17 march 2020, loading the curiosumportal.in in browser, can login with admin (sumeetboga@gmail.com) but cannot login with normal user.
