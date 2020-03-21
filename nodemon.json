@@ -1,0 +1,6 @@
+{
+  "verbros": true,
+  "ignore": ["node_modules", ".nuxt"],
+  "watch": ["server/**/*", "index.js"],
+  "ext": "js json"
+}
