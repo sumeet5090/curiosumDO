@@ -129,11 +129,11 @@ let newTeamSchema = Schema({
     type: String,
     default: ""
   },
-  captain: {
-    type: ObjectId,
-   // ref: "User"
-    default:null
-  },
+  // captain: {
+  //   type: ObjectId,
+  //  // ref: "User"
+  //   default:null
+  // },
   car: [{
     type: Number,
     ref: "Car"

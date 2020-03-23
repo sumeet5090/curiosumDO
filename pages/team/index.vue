@@ -148,8 +148,6 @@
       <no-ssr>
         <div class="container">
           <div class="row justify-content-center">
-
-<!-- below code is commented, create team page is hided from normal user  -->
             <card class="col-md-4 px-0 mx-1 curiosum-gradient">
               <b-form @reset.prevent @submit.prevent class="form-create-team">
                 <b-form-row class="mb-3">
@@ -167,7 +165,6 @@
                 </b-form-group>
               </b-form>
             </card>
-            
             <card class="col-md-4 px-0 mx-1 curiosum-gradient">
               <b-form @reset.prevent @submit.prevent class="form-join-team">
                 <b-form-row class="mb-3">
