@@ -7,6 +7,11 @@ let TeamSchema = Schema({
     //ref: "User"
     default:null
   }],
+  alumnusCandidates: [{
+    type: ObjectId,
+    //ref: "User",
+    default:null
+  }],
   bio: {
     type: String,
     default: ""

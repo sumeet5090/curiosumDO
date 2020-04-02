@@ -4,6 +4,7 @@ function connect() {
     let db;
     mongoose.Promise = global.Promise;
     if (mongoose.connection.readyState !== 1) {
+        console.log(keys.db.uri, keys.db.options);
         db = mongoose.connect('mongodb://localhost:27017/vicky12345', {useNewUrlParser: true}, function (err) {
             if (err) {
                 console.error(err)
