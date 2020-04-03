@@ -21,7 +21,7 @@
         <b-table :fields="fields" :filter="filter" :items="teams" :sort-compare="sortCompareAdvanced" bordered class="font-md-small" hover outlined responsive>
           <template slot="category" slot-scope="data">
             <div class>
-              <img class="img-thumbnail icon-category" src="@/assets/images/icons/category/combustion.svg" v-if="data.item.category == 'combustion'">
+              <img class="img-thumbnail icon-category" src="@/assets/images/icons/category/combustion.png" v-if="data.item.category == 'combustion'">
               <img class="img-thumbnail icon-category" src="@/assets/images/icons/category/electric.svg" v-if="data.item.category == 'electric'">
             </div>
           </template>
