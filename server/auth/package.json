@@ -41,7 +41,7 @@
     "highlight.js": "^9.13.1",
     "html-to-image": "^0.1.1",
     "html2pdf.js": "^0.9.1",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "json-2-csv": "^3.5.7",
     "jsonwebtoken": "^8.3.0",
     "jspdf": "^1.5.3",
