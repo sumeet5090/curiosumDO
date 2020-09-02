@@ -37,7 +37,7 @@
     "flat": "^4.1.0",
     "flatpickr": "^4.5.2",
     "google-auth-library": "^4.2.0",
-    "googleapis": "27",
+    "googleapis": "39",
     "highlight.js": "^9.13.1",
     "html-to-image": "^0.1.1",
     "html2pdf.js": "^0.9.1",
