@@ -43,7 +43,7 @@
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.11",
     "marked": "^0.8.2",
-    "mavon-editor": "^2.7.4",
+    "mavon-editor": "^2.8.2",
     "moment": "^2.22.2",
     "mongoose": "^5.9.6",
     "mongoose-to-csv": "^0.1.1",
