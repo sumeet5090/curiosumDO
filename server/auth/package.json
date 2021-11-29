@@ -47,7 +47,7 @@
     "jspdf": "^1.5.3",
     "lodash": "^4.17.13",
     "marked": "^0.6.1",
-    "mavon-editor": "^2.7.4",
+    "mavon-editor": "^2.8.2",
     "moment": "^2.22.2",
     "mongoose": "^5.7.5",
     "mongoose-to-csv": "^0.1.1",
