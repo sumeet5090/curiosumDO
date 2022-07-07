@@ -44,7 +44,7 @@
     "lodash": "^4.17.11",
     "marked": "^0.8.2",
     "mavon-editor": "^2.7.4",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mongoose": "^5.9.6",
     "mongoose-to-csv": "^0.1.1",
     "mongoose-validator": "^2.1.0",
