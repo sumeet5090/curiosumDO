@@ -43,7 +43,7 @@
     "html2pdf.js": "^0.9.1",
     "jquery": "^3.4.0",
     "json-2-csv": "^3.5.7",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "jspdf": "^1.5.3",
     "lodash": "^4.17.13",
     "marked": "^0.6.1",
